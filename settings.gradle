@@ -1,0 +1,3 @@
+rootProject.name = "Summer Proposal"
+include ':app'
+include ':app:data'
